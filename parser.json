@@ -1,8 +1,9 @@
 {
   "url": "https://github.com/alex-pinkus/tree-sitter-swift",
   "semver": false,
-  "min_version": null,
+  "parser_version": null,
   "lang": "swift",
   "location": null,
-  "max_version": null
+  "generate": true,
+  "generate_from_json": true
 }
